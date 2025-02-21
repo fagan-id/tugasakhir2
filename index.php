@@ -82,7 +82,7 @@ $all_review = $conn->query($sql1);
     <!-- Hero Section -->
     <section id="hero" class="hero section">
 
-      <img src="assets/img/home-bg.jpg" alt="" data-aos="fade-in">
+      <img src="assets/img/backland/backland-g4.jpg" alt="" data-aos="fade-in">
 
       <div class="container">
 
@@ -123,7 +123,7 @@ $all_review = $conn->query($sql1);
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-4">
           <div class="col-lg-6 order-1 order-lg-2">
-            <img src="assets/img/backland-about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/backland/backland-g2.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 order-2 order-lg-1 content">
             <div class="container section-title title" data-aos="fade-up">
@@ -139,7 +139,7 @@ $all_review = $conn->query($sql1);
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-4">
           <div class="col-lg-6 order-1 order-lg-1">
-            <img src="assets/img/backland-about2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/backland/backland-g3.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 order-2 order-lg-2 content">
             <div class="container section-title title" data-aos="fade-up">
